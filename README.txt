@@ -5,6 +5,9 @@ Files:
 - Star Masti.apk: the APK download file
 - assets/wallet.jpg: wallet screenshot
 - assets/daily-checkin.jpg: daily check-in screenshot
+- assets/video-player.jpg: video player screenshot
+- assets/music-player.jpg: party music player screenshot
+- assets/profile.jpg: profile and menu screenshot
 
 IMPORTANT:
 Keep the folder/file structure unchanged when uploading to hosting. The download button points to "Star Masti.apk" in this same folder.
